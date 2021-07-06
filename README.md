@@ -1,1 +1,0 @@
-# josephdevilmarest.github.io
