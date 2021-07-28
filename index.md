@@ -24,7 +24,7 @@ We considered EDF data and also public datasets. First we studied the French ele
 
 Second, we participated in electricity load forecasting competitions to assert the performance of our methods:
 * We obtained with Y. Goude the first place in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm).
-* I participated in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/). Results to be announced.
+* I obtained the first place in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
 
 
 ## Communications
