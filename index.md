@@ -9,7 +9,7 @@ I graduated in **2019** from the [École Normale Supérieure](https://www.ens.fr
 
 My PhD considers adaptive methods for time series forecasting, mainly focusing on state-space representations. The industrial application at EDF is electricity load forecasting.
 
-#### Analysis of the Extended Kalman Filter in the degenerate static setting 
+#### Analysis of the Extended Kalman Filter in the Degenerate Static Setting 
 The objective was to enrich the link between Kalman Filters and the optimization community. It led to the following preprints:
 * de Vilmarest, J. and Wintenberger, O. (2020). [Stochastic online optimization using kalman recursion](https://arxiv.org/abs/2002.03636).
 * de Vilmarest, J. and Wintenberger, O. (2019). [Logarithmic Regret for parameter-free Online Logistic Regression](https://arxiv.org/abs/1902.09803).
@@ -29,7 +29,7 @@ Second, we participated in electricity load forecasting competitions to assert t
 
 ## Communications
 
-* **July 27 2021** Panel session *Performance evaluation of artificial intelligence methods for energy consumption forecasting using open data sets* at the IEEE Power & Energy Society General Meeting. See the [slides]({{ site.baseurl }}/docs/2021_07_27_ieee_pes.pdf).
-* **July 24 2021** Poster presentation at the [time-series workshop](http://roseyu.com/time-series-workshop/) of ICML. See the [article](http://roseyu.com/time-series-workshop/submissions/2021/TSW-ICML2021_paper_15.pdf), [poster]({{ site.baseurl }}/docs/2021_07_24_poster.png) and short [video](https://www.youtube.com/watch?v=2jkENYgQxTA).
-* **June 7 2021** Oral presentation at the [Journées de Statistiques](https://jds2021.sciencesconf.org/). See the [slides]({{ site.baseurl }}/docs/2021_06_09_jds.pdf).
-* **September 15 2020** Oral presentation at [New Results on Time Series and their Statistical Applications](https://www.cirm-math.com/2233hybrid.html), *Marseille, France*.
+* **July 27 2021.** Panel session *Performance evaluation of artificial intelligence methods for energy consumption forecasting using open data sets* at the IEEE Power & Energy Society General Meeting. See the [slides]({{ site.baseurl }}/docs/2021_07_27_ieee_pes.pdf) and the [video](https://vimeo.com/581408143).
+* **July 24 2021.** Poster presentation at the [time-series workshop](http://roseyu.com/time-series-workshop/) of ICML. See the [article](http://roseyu.com/time-series-workshop/submissions/2021/TSW-ICML2021_paper_15.pdf), [poster]({{ site.baseurl }}/docs/2021_07_24_poster.png) and short [video](https://www.youtube.com/watch?v=2jkENYgQxTA).
+* **June 7 2021.** Oral presentation at the [Journées de Statistiques](https://jds2021.sciencesconf.org/). See the [slides]({{ site.baseurl }}/docs/2021_06_09_jds.pdf).
+* **September 15 2020.** Oral presentation at [New Results on Time Series and their Statistical Applications](https://www.cirm-math.com/2233hybrid.html), *Marseille, France*.
