@@ -22,8 +22,10 @@ As there is no consensus to choose the hyper-parameters of Kalman Filters we are
 We considered EDF data and also public datasets. First we studied the French electricity load provided by [RTE](https://www.rte-france.com/), the French grid operator, yielding the following publication:
 * Obst, D., de Vilmarest, J. and Goude, Y. (2021). [Adaptive Methods for Short-Term Electricity Load Forecasting During COVID-19 Lockdown in France](https://ieeexplore.ieee.org/abstract/document/9382417?casa_token=pIp_LDE7e0MAAAAA:F3lsUFypBN28V95VtTBd2NQyf7vr2hDmh77GlR4fkvmyvAprzuh5VqDV-nBS9jqIDVWHbxv2ecI6). *IEEE Transactions on Power Systems*.
 
-Second, we participated in electricity load forecasting competitions to assert the performance of our methods. We obtained with Y. Goude the first place in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm), and I obtained the first place in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/). It led to the following preprint:
-* de Vilmarest, J. and Goude, Y (2021). [State-Space Models Win the IEEE DataPort Competition on Post-covid Day-ahead Electricity Load Forecasting](https://hal.archives-ouvertes.fr/hal-03359868/document).
+Second, we participated in electricity load forecasting competitions to assert the performance of our methods:
+* We obtained with Y. Goude the first place in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm):
+de Vilmarest, J. and Goude, Y (2021). [State-Space Models Win the IEEE DataPort Competition on Post-covid Day-ahead Electricity Load Forecasting](https://hal.archives-ouvertes.fr/hal-03359868/document).
+* I obtained the first place in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
 
 
 ## Communications
