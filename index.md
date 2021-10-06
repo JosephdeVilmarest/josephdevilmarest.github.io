@@ -23,13 +23,14 @@ We considered EDF data and also public datasets. First we studied the French ele
 * Obst, D., de Vilmarest, J. and Goude, Y. (2021). [Adaptive Methods for Short-Term Electricity Load Forecasting During COVID-19 Lockdown in France](https://ieeexplore.ieee.org/abstract/document/9382417?casa_token=pIp_LDE7e0MAAAAA:F3lsUFypBN28V95VtTBd2NQyf7vr2hDmh77GlR4fkvmyvAprzuh5VqDV-nBS9jqIDVWHbxv2ecI6). *IEEE Transactions on Power Systems*.
 
 Second, we participated in electricity load forecasting competitions to assert the performance of our methods:
-* We obtained with Y. Goude the first place in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm):
+* We obtained with Y. Goude the first place in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm):\
 de Vilmarest, J. and Goude, Y (2021). [State-Space Models Win the IEEE DataPort Competition on Post-covid Day-ahead Electricity Load Forecasting](https://hal.archives-ouvertes.fr/hal-03359868/document).
 * I obtained the first place in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
 
 
 ## Communications
 
+* **October 4 2021.** Oral presentation at [Assessment of ensemble forecasts](http://wintenberger.fr/VALPRED). See the [slides]({{ site.baseurl }}/docs/2021_10_04_valpred_viking.pdf).
 * **July 27 2021.** Panel session *Performance evaluation of artificial intelligence methods for energy consumption forecasting using open data sets* at the IEEE Power & Energy Society General Meeting. See the [slides]({{ site.baseurl }}/docs/2021_07_27_ieee_pes.pdf) and the [video](https://vimeo.com/581408143) (I present at 42:30).
 * **July 24 2021.** Poster presentation at the [time-series workshop](http://roseyu.com/time-series-workshop/) of ICML. See the [article](http://roseyu.com/time-series-workshop/submissions/2021/TSW-ICML2021_paper_15.pdf), [poster]({{ site.baseurl }}/docs/2021_07_24_poster.png) and short [video](https://www.youtube.com/watch?v=2jkENYgQxTA).
 * **June 7 2021.** Oral presentation at the [Journées de Statistiques](https://jds2021.sciencesconf.org/). See the [slides]({{ site.baseurl }}/docs/2021_06_09_jds.pdf).
