@@ -10,13 +10,13 @@ I graduated in **2019** from the [École Normale Supérieure](https://www.ens.fr
 My PhD considers adaptive methods for time series forecasting, mainly focusing on state-space representations. The industrial application at EDF is electricity load forecasting.
 
 #### Analysis of the Extended Kalman Filter in the Degenerate Static Setting 
-The objective was to enrich the link between Kalman Filters and the optimization community. It led to the following preprints:
-* de Vilmarest, J. and Wintenberger, O. (2020). [Stochastic online optimization using kalman recursion](https://arxiv.org/abs/2002.03636).
-* de Vilmarest, J. and Wintenberger, O. (2019). [Logarithmic Regret for parameter-free Online Logistic Regression](https://arxiv.org/abs/1902.09803).
+The objective was to enrich the link between Kalman Filters and the optimization community. It led to the following papers:
+* de Vilmarest, J. and Wintenberger, O. (2020). [Stochastic online optimization using kalman recursion](https://jmlr.org/papers/volume22/20-618/20-618.pdf). *Journal of Machine Learning Research*.
+* de Vilmarest, J. and Wintenberger, O. (2019). [Logarithmic Regret for parameter-free Online Logistic Regression](https://arxiv.org/abs/1902.09803). *Preprint*.
 
 #### VIKING: Variational Bayesian Variance Tracking
 As there is no consensus to choose the hyper-parameters of Kalman Filters we are working on state-space models with unknown variances, which are represented as additional latent variables. This led to the following preprint:
-* de Vilmarest, J. and Wintenberger, O. (2021). [Recursive Estimation of State-Space Noise Covariance Matrix by Approximate Variational Bayes](https://arxiv.org/abs/2104.10777).
+* de Vilmarest, J. and Wintenberger, O. (2021). [Recursive Estimation of State-Space Noise Covariance Matrix by Approximate Variational Bayes](https://arxiv.org/abs/2104.10777). *Preprint*.
 
 #### Adaptive Electricity Load Forecasting
 We considered EDF data and also public datasets. First we studied the French electricity load provided by [RTE](https://www.rte-france.com/), the French grid operator, yielding the following publication:
@@ -24,7 +24,7 @@ We considered EDF data and also public datasets. First we studied the French ele
 
 Second, we participated in electricity load forecasting competitions to assert the performance of our methods:
 * We obtained with Y. Goude the first place in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm):\
-de Vilmarest, J. and Goude, Y (2021). [State-Space Models Win the IEEE DataPort Competition on Post-covid Day-ahead Electricity Load Forecasting](https://hal.archives-ouvertes.fr/hal-03359868/document).
+de Vilmarest, J. and Goude, Y (2021). [State-Space Models Win the IEEE DataPort Competition on Post-covid Day-ahead Electricity Load Forecasting](https://arxiv.org/pdf/2110.00334.pdf). *Preprint*.
 * I obtained the first place in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
 
 
