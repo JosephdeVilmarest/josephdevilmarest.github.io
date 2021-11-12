@@ -11,12 +11,12 @@ My PhD considers adaptive methods for time series forecasting, mainly focusing o
 
 #### Analysis of the Extended Kalman Filter in the Degenerate Static Setting 
 The objective was to enrich the link between Kalman Filters and the optimization community. It led to the following papers:
-* de Vilmarest, J. and Wintenberger, O. (2020). [Stochastic online optimization using kalman recursion](https://jmlr.org/papers/volume22/20-618/20-618.pdf). *Journal of Machine Learning Research*.
+* de Vilmarest, J. and Wintenberger, O. (2020). [Stochastic online optimization using kalman recursion](https://www.jmlr.org/papers/v22/20-618.html). *Journal of Machine Learning Research*.
 * de Vilmarest, J. and Wintenberger, O. (2019). [Logarithmic Regret for parameter-free Online Logistic Regression](https://arxiv.org/abs/1902.09803). *Preprint*.
 
-#### VIKING: Variational Bayesian Variance Tracking
+#### Viking: Variational Bayesian Variance Tracking
 As there is no consensus to choose the hyper-parameters of Kalman Filters we are working on state-space models with unknown variances, which are represented as additional latent variables. This led to the following preprint:
-* de Vilmarest, J. and Wintenberger, O. (2021). [Recursive Estimation of State-Space Noise Covariance Matrix by Approximate Variational Bayes](https://arxiv.org/abs/2104.10777). *Preprint*.
+* de Vilmarest, J. and Wintenberger, O. (2021). [Viking: Variational Bayesian Variational Tracking](https://arxiv.org/abs/2104.10777). *Preprint*.
 
 #### Adaptive Electricity Load Forecasting
 We considered EDF data and also public datasets. First we studied the French electricity load provided by [RTE](https://www.rte-france.com/), the French grid operator, yielding the following publication:
@@ -24,12 +24,13 @@ We considered EDF data and also public datasets. First we studied the French ele
 
 Second, we participated in electricity load forecasting competitions to assert the performance of our methods:
 * We obtained with Y. Goude the first place in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm):\
-de Vilmarest, J. and Goude, Y (2021). [State-Space Models Win the IEEE DataPort Competition on Post-covid Day-ahead Electricity Load Forecasting](https://arxiv.org/pdf/2110.00334.pdf). *Preprint*.
+de Vilmarest, J. and Goude, Y. (2021). [State-Space Models Win the IEEE DataPort Competition on Post-covid Day-ahead Electricity Load Forecasting](https://arxiv.org/abs/2110.00334). *Preprint*.
 * I obtained the first place in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
 
 
 ## Communications
 
+* **December 1 2021.** Oral presentation at the [PGMO days](https://www.fondation-hadamard.fr/fr/pgmo/pgmodays).
 * **October 4 2021.** Oral presentation at [Assessment of ensemble forecasts](http://wintenberger.fr/VALPRED). See the [slides]({{ site.baseurl }}/docs/2021_10_04_valpred_viking.pdf).
 * **July 27 2021.** Panel session *Performance evaluation of artificial intelligence methods for energy consumption forecasting using open data sets* at the IEEE Power & Energy Society General Meeting. See the [slides]({{ site.baseurl }}/docs/2021_07_27_ieee_pes.pdf) and the [video](https://vimeo.com/581408143) (I present at 42:30).
 * **July 24 2021.** Poster presentation at the [time-series workshop](http://roseyu.com/time-series-workshop/) of ICML. See the [article](http://roseyu.com/time-series-workshop/submissions/2021/TSW-ICML2021_paper_15.pdf), [poster]({{ site.baseurl }}/docs/2021_07_24_poster.png) and short [video](https://www.youtube.com/watch?v=2jkENYgQxTA).
