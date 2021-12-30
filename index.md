@@ -25,7 +25,7 @@ We considered EDF data and also public datasets. First we studied the French ele
 Second, we participated in electricity load forecasting competitions to assert the performance of our methods:
 * We obtained with Y. Goude the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_ieeedataport.png) in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm):\
 de Vilmarest, J. and Goude, Y. (2021). [State-Space Models Win the IEEE DataPort Competition on Post-covid Day-ahead Electricity Load Forecasting](https://arxiv.org/abs/2110.00334). *Preprint*. See also our implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting).
-* I obtained the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_building.png) in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
+* I obtained the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_building.pdf) in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
 
 
 ## Communications
