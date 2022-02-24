@@ -24,7 +24,8 @@ We considered EDF data and also public datasets. First we studied the French ele
 
 Second, we participated in electricity load forecasting competitions to assert the performance of our methods:
 * We obtained with Y. Goude the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_ieeedataport.png) in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm):\
-de Vilmarest, J. and Goude, Y. (2021). [State-Space Models Win the IEEE DataPort Competition on Post-covid Day-ahead Electricity Load Forecasting](https://arxiv.org/abs/2110.00334). *Preprint*. See also our implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting).
+de Vilmarest, J. and Goude, Y. (2021). [State-Space Models for Online Post-Covid Electricity Load Forecasting Competition](https://ieeexplore.ieee.org/document/9677626). *IEEE Open Access Journal of Power and Energy*.\
+See also our implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting).
 * I obtained the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_building.pdf) in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
 
 
@@ -32,7 +33,7 @@ de Vilmarest, J. and Goude, Y. (2021). [State-Space Models Win the IEEE DataPort
 
 * **December 1 2021.** Oral presentation at the [PGMO days](https://www.fondation-hadamard.fr/fr/pgmo/pgmodays).
 * **October 4 2021.** Oral presentation at [Assessment of ensemble forecasts](http://wintenberger.fr/VALPRED). See the [slides]({{ site.baseurl }}/docs/2021_10_04_valpred_viking.pdf).
-* **July 27 2021.** Panel session *Performance evaluation of artificial intelligence methods for energy consumption forecasting using open data sets* at the IEEE Power & Energy Society General Meeting. See the [slides]({{ site.baseurl }}/docs/2021_07_27_ieee_pes.pdf) and the [video](https://vimeo.com/581408143) (I present at 42:30).
+* **July 27 2021.** Panel session *Performance evaluation of artificial intelligence methods for energy consumption forecasting using open data sets* at the IEEE Power & Energy Society General Meeting. See the [slides]({{ site.baseurl }}/docs/2021_07_27_ieee_pes.pdf).
 * **July 24 2021.** Poster presentation at the [time-series workshop](http://roseyu.com/time-series-workshop/) of ICML. See the [article](http://roseyu.com/time-series-workshop/submissions/2021/TSW-ICML2021_paper_15.pdf), [poster]({{ site.baseurl }}/docs/2021_07_24_poster.png) and short [video](https://www.youtube.com/watch?v=2jkENYgQxTA).
 * **June 7 2021.** Oral presentation at the [Journées de Statistiques](https://jds2021.sciencesconf.org/). See the [slides]({{ site.baseurl }}/docs/2021_06_09_jds.pdf).
 * **September 15 2020.** Oral presentation at [New Results on Time Series and their Statistical Applications](https://www.cirm-math.com/2233hybrid.html), *Marseille, France*.
