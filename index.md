@@ -31,6 +31,10 @@ See also our implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/sta
 
 ## Communications
 
+* **June 2022.** Oral presentation at the [Journées de Statistiques](https://jds22.sciencesconf.org/), Lyon.
+* **April 5 2022.** Oral presentation at the [Rencontre des Jeunes Statisticiens](https://rjs2022.sciencesconf.org/), Porquerolles.
+* **January 20 2022.** [Séminaire Images Optimisation et Probabilités](https://www.math.u-bordeaux.fr/imb/seminaire-image-optimisation-et-probabilites) at Bordeaux.
+* **January 13 2022.** Oral presentation at the *Séminaire DATA* at the [Laboratoire Jean Kuntzmann](https://www-ljk.imag.fr/#header), Grenoble.
 * **December 1 2021.** Oral presentation at the [PGMO days](https://www.fondation-hadamard.fr/fr/pgmo/pgmodays).
 * **October 4 2021.** Oral presentation at [Assessment of ensemble forecasts](http://wintenberger.fr/VALPRED). See the [slides]({{ site.baseurl }}/docs/2021_10_04_valpred_viking.pdf).
 * **July 27 2021.** Panel session *Performance evaluation of artificial intelligence methods for energy consumption forecasting using open data sets* at the IEEE Power & Energy Society General Meeting. See the [slides]({{ site.baseurl }}/docs/2021_07_27_ieee_pes.pdf).
