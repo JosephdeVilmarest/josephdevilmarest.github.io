@@ -2,36 +2,38 @@
 
 I graduated in **2019** from the [École Normale Supérieure](https://www.ens.fr) and got a Master Degree from the [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/) in mathematics and machine learning ([MVA](https://www.master-mva.com/)).
 
-**Since September 2019** I am a PhD Student in Statistics under a [CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/) contract. I am jointly working at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang.
+**Since September 2019** I am a PhD Student in Statistics under a [CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/) contract. I am jointly working at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang. I defended on June 22, 2022.
 
 
-## PhD Outline
+## Research
 
-My PhD considers adaptive methods for time series forecasting, mainly focusing on state-space representations. The industrial application at EDF is electricity load forecasting.
+I am mainly interested in time series forecasting. I consider adaptive methods that are able to learn regime changes in the time series, focusingin particular on state-space representations. During my PhD the industrial application at EDF was electricity load forecasting.
 
-#### Analysis of the Extended Kalman Filter in the Degenerate Static Setting 
-The objective was to enrich the link between Kalman Filters and the optimization community. It led to the following papers:
-* de Vilmarest, J. and Wintenberger, O. (2020). [Stochastic online optimization using kalman recursion](https://www.jmlr.org/papers/v22/20-618.html). *Journal of Machine Learning Research*.
-* de Vilmarest, J. and Wintenberger, O. (2019). [Logarithmic Regret for parameter-free Online Logistic Regression](https://arxiv.org/abs/1902.09803). *Preprint*.
+#### Publications
 
-#### Viking: Variational Bayesian Variance Tracking
-As there is no consensus to choose the hyper-parameters of Kalman Filters we are working on state-space models with unknown variances, which are represented as additional latent variables. This led to the following preprint:
-* de Vilmarest, J. and Wintenberger, O. (2021). [Viking: Variational Bayesian Variational Tracking](https://arxiv.org/abs/2104.10777). *Preprint*.
-
-#### Adaptive Electricity Load Forecasting
-We considered EDF data and also public datasets. First we studied the French electricity load provided by [RTE](https://www.rte-france.com/), the French grid operator, yielding the following publication:
+* de Vilmarest, J. and Goude, Y. (2022). [State-Space Models for Online Post-Covid Electricity Load Forecasting Competition](https://ieeexplore.ieee.org/document/9677626). *IEEE Open Access Journal of Power and Energy*.\
+Implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting).
+* de Vilmarest, J. and Wintenberger, O. (2021). [Stochastic online optimization using kalman recursion](https://www.jmlr.org/papers/v22/20-618.html). *Journal of Machine Learning Research*.
 * Obst, D., de Vilmarest, J. and Goude, Y. (2021). [Adaptive Methods for Short-Term Electricity Load Forecasting During COVID-19 Lockdown in France](https://ieeexplore.ieee.org/abstract/document/9382417?casa_token=pIp_LDE7e0MAAAAA:F3lsUFypBN28V95VtTBd2NQyf7vr2hDmh77GlR4fkvmyvAprzuh5VqDV-nBS9jqIDVWHbxv2ecI6). *IEEE Transactions on Power Systems*.
 
-Second, we participated in electricity load forecasting competitions to assert the performance of our methods:
-* We obtained with Y. Goude the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_ieeedataport.png) in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm):\
-de Vilmarest, J. and Goude, Y. (2021). [State-Space Models for Online Post-Covid Electricity Load Forecasting Competition](https://ieeexplore.ieee.org/document/9677626). *IEEE Open Access Journal of Power and Energy*.\
-See also our implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting).
-* I obtained the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_building.pdf) in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
+#### Preprints
+
+* de Vilmarest, J. and Wintenberger, O. (2021). [Viking: Variational Bayesian Variational Tracking](https://arxiv.org/abs/2104.10777). *Preprint*.
+* de Vilmarest, J. and Wintenberger, O. (2019). [Logarithmic Regret for parameter-free Online Logistic Regression](https://arxiv.org/abs/1902.09803).
+
+
+## Competitions
+
+* **February 2022 - ...** We are currently participating with [Nicklas Werge](https://nicklaswerge.github.io/) in the [M6 Financial Forecasting Competition](https://m6competition.com/) under the team name *AdaGaussMC*. We focus on the *Forecasts* leaderboard, ranking third in the first quarter, and second globally as of July 7.
+* **June 2021** I obtained the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_building.pdf) in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
+* **March - April 2021** We obtained with Y. Goude the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_ieeedataport.png) in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm).\
+See our [publication](https://ieeexplore.ieee.org/document/9677626) and [implementation](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting) for details.
 
 
 ## Communications
 
-* **June 2022.** Oral presentation at the [Journées de Statistiques](https://jds22.sciencesconf.org/), Lyon.
+* **June 22 2022.** PhD Defense, Jussieu, Paris.
+* **June 13 2022.** Oral presentation at the [Journées de Statistiques](https://jds22.sciencesconf.org/), Lyon.
 * **April 5 2022.** Oral presentation at the [Rencontre des Jeunes Statisticiens](https://rjs2022.sciencesconf.org/), Porquerolles.
 * **January 20 2022.** [Séminaire Images Optimisation et Probabilités](https://www.math.u-bordeaux.fr/imb/seminaire-image-optimisation-et-probabilites) at Bordeaux.
 * **January 13 2022.** Oral presentation at the *Séminaire DATA* at the [Laboratoire Jean Kuntzmann](https://www-ljk.imag.fr/#header), Grenoble.
