@@ -2,8 +2,10 @@
 
 I graduated in **2019** from the [École Normale Supérieure](https://www.ens.fr) and got a Master Degree from the [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/) in mathematics and machine learning ([MVA](https://www.master-mva.com/)).
 
-**Since September 2019** I am a PhD Student in Statistics under a [CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/) contract. I am jointly working at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang. I defended on June 22, 2022.\
+From **2019** to **2022** I was a PhD Student in Statistics under a [CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/) contract. I am jointly working at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang. I defended on June 22, 2022.\
 My PhD manuscript is available [here]({{ site.baseurl }}/docs/manuscript.pdf), and my defense slides [here]({{ site.baseurl }}/docs/2022_06_22_soutenance.pdf).
+
+I am now extending my Phd work in [Viking Conseil](http://vikingconseil.fr/).
 
 
 ## Research
