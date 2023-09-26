@@ -47,5 +47,3 @@ See our [publication](https://ieeexplore.ieee.org/document/9677626) and [impleme
 * **July 24 2021.** Poster presentation at the [time-series workshop](http://roseyu.com/time-series-workshop/) of ICML. See the [article](http://roseyu.com/time-series-workshop/submissions/2021/TSW-ICML2021_paper_15.pdf), [poster]({{ site.baseurl }}/docs/2021_07_24_poster.png) and short [video](https://www.youtube.com/watch?v=2jkENYgQxTA).
 * **June 7 2021.** Oral presentation at the [Journées de Statistiques](https://jds2021.sciencesconf.org/). See the [slides]({{ site.baseurl }}/docs/2021_06_09_jds.pdf).
 * **September 15 2020.** Oral presentation at [New Results on Time Series and their Statistical Applications](https://www.cirm-math.com/2233hybrid.html), *Marseille, France*.
-
-[Data]({{ site.baseurl }}/docs/TP_EDF/data.RDS)
