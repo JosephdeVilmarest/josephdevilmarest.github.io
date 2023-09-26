@@ -48,5 +48,4 @@ See our [publication](https://ieeexplore.ieee.org/document/9677626) and [impleme
 * **June 7 2021.** Oral presentation at the [Journées de Statistiques](https://jds2021.sciencesconf.org/). See the [slides]({{ site.baseurl }}/docs/2021_06_09_jds.pdf).
 * **September 15 2020.** Oral presentation at [New Results on Time Series and their Statistical Applications](https://www.cirm-math.com/2233hybrid.html), *Marseille, France*.
 
-[Data]({{ site.baseurl }}/docs/TP_EDF/data.RDS), [correction]({{ site.baseurl }}/docs/TP_EDF/Correction_TP.R).
-
+[Data]({{ site.baseurl }}/docs/TP_EDF/data.RDS)
