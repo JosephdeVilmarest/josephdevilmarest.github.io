@@ -1,6 +1,6 @@
 ## Short bio
 
-I am the founder of [Viking Conseil](http://vikingconseil.fr/) to build adaptive forecasting models, able to adapt to an increasingly unstable world.
+I founded [Viking Conseil](http://vikingconseil.fr/) to build adaptive forecasting models that are able to adapt to an increasingly unstable world.
 
 I graduated in **2019** from the [École Normale Supérieure](https://www.ens.fr) and got a Master Degree from the [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/) in mathematics and machine learning ([MVA](https://www.master-mva.com/)).
 
