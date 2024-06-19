@@ -1,10 +1,11 @@
 ## Short bio
 
+I am the founder of [Viking Conseil](http://vikingconseil.fr/) to build adaptive forecasting models, able to adapt to an increasingly unstable world.
+
 I graduated in **2019** from the [École Normale Supérieure](https://www.ens.fr) and got a Master Degree from the [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/) in mathematics and machine learning ([MVA](https://www.master-mva.com/)).
 
 From **2019** to **2022** I was a PhD Student in Statistics under a [CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/) contract. I am jointly working at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang. I defended on June 22, 2022.\
 My PhD manuscript is available [here]({{ site.baseurl }}/docs/manuscript.pdf), and my defense slides [here]({{ site.baseurl }}/docs/2022_06_22_soutenance.pdf).
-
 I am now extending my Phd work in [Viking Conseil](http://vikingconseil.fr/).
 
 
@@ -14,6 +15,9 @@ I am mainly interested in time series forecasting. I consider adaptive methods t
 
 #### Publications
 
+* J. de Vilmarest and O. Wintenberger (2024). [Viking: Variational Bayesian Variational Tracking](https://link.springer.com/article/10.1007/s11203-024-09312-7). *Statistical Inference for Stochastic Processes*.
+* J. de Vilmarest, J. Browell, M. Fasiolo, Y. Goude and O. Wintenberger (2023). [Adaptive Probabilistic Forecasting of Electricity (Net-)Load](https://ieeexplore.ieee.org/document/10234679). *IEEE Transactions on Power Systems*.
+* G. Lambert, B. Hamrouche and J. de Vilmarest (2023). [Frugal day-ahead forecasting of multiple local electricity loads by aggregating adaptive models](https://www.nature.com/articles/s41598-023-42488-1). *Nature Scientific Reports*.
 * J. de Vilmarest and Y. Goude (2022). [State-Space Models for Online Post-Covid Electricity Load Forecasting Competition](https://ieeexplore.ieee.org/document/9677626). *IEEE Open Access Journal of Power and Energy*.\
 Implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting).
 * J. de Vilmarest and O. Wintenberger (2021). [Stochastic online optimization using kalman recursion](https://www.jmlr.org/papers/v22/20-618.html). *Journal of Machine Learning Research*.
@@ -21,13 +25,15 @@ Implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post
 
 #### Preprints
 
-* J. de Vilmarest and O. Wintenberger (2021). [Viking: Variational Bayesian Variational Tracking](https://arxiv.org/abs/2104.10777). *Preprint*.
+* B. Abélès, J. de Vilmarest and O. Wintenberger (2024). [Adaptive time series forecasting with markovian variance switching](https://arxiv.org/abs/2402.14684).
+* J. de Vilmarest and N. Werge (2023). [An adaptive volatility method for probabilistic forecasting and its application to the M6 financial forecasting competition](https://arxiv.org/abs/2303.01855).
 * J. de Vilmarest and O. Wintenberger (2019). [Logarithmic Regret for parameter-free Online Logistic Regression](https://arxiv.org/abs/1902.09803).
 
 
 ## Competitions
 
-* **February 2022 - ...** We are currently participating with [Nicklas Werge](https://nicklaswerge.github.io/) in the [M6 Financial Forecasting Competition](https://m6competition.com/) under the team name *AdaGaussMC*. We focus on the *Forecasts* leaderboard, ranking third in the first quarter, and second globally as of July 7.
+* **February 2022 - February 2023** We participated with [Nicklas Werge](https://nicklaswerge.github.io/) in the [M6 Financial Forecasting Competition](https://m6competition.com/) under the team name *AdaGaussMC*. We focus on the *Forecasts* leaderboard, ranking third in the first quarter, and second globally as of July 7.
+See our [preprint](https://arxiv.org/abs/2303.01855) and [implementation](https://gitlab.com/JdeVilmarest/m6-ijf) for details.
 * **June 2021.** I obtained the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_building.pdf) in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
 * **March - April 2021.** We obtained with Y. Goude the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_ieeedataport.png) in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm).\
 See our [publication](https://ieeexplore.ieee.org/document/9677626) and [implementation](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting) for details.
@@ -35,6 +41,10 @@ See our [publication](https://ieeexplore.ieee.org/document/9677626) and [impleme
 
 ## Communications
 
+* **May 27-31, 2024.** [Journées de Statistiques](https://jds2024.sciencesconf.org/) (Bordeaux, France).
+* **September 11-14, 2023.** [WPI-Workshop](https://wpi.univie.ac.at/): Stochastics, Statistics, Machine Learning and their Applications to Sustainable Finance and Energy Markets (Vienna, Austria).
+* **January 16, 2023.** [Machine Learning Meetup](https://www.meetup.com/fr-FR/nantes-machine-learning-meetup/) (Nantes, France).
+* **September 27-28, 2022.** [International Ruhr Energy Conference](https://www.inrec.wiwi.uni-due.de/) (Essen, Germany).
 * **August 30, 2022.** [Journées MAS](https://mas2022.sciencesconf.org/). 
 * **June 22 2022.** PhD Defense, Jussieu, Paris.
 * **June 13 2022.** [Journées de Statistiques](https://jds22.sciencesconf.org/), Lyon.
