@@ -5,7 +5,8 @@ I founded [Viking Conseil](http://vikingconseil.fr/) to build adaptive forecasti
 I graduated in **2019** from the [École Normale Supérieure](https://www.ens.fr) and got a Master Degree from the [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/) in mathematics and machine learning ([MVA](https://www.master-mva.com/)).
 
 From **2019** to **2022** I was a PhD Student in Statistics under a [CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/) contract. I am jointly working at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang. I defended on June 22, 2022.\
-My PhD manuscript is available [here]({{ site.baseurl }}/docs/manuscript.pdf), and my defense slides [here]({{ site.baseurl }}/docs/2022_06_22_soutenance.pdf).
+My PhD manuscript is available [here]({{ site.baseurl }}/docs/manuscript.pdf), and my defense slides [here]({{ site.baseurl }}/docs/2022_06_22_soutenance.pdf).\
+I received the [male thesis prize](https://www.thinksmartgrids.fr/actualites/prix-de-these-think-smartgrids) of Think Smartgrids, as well as the [Marie-Jeanne Laurent-Duhamel thesis prize](https://www.sfds.asso.fr/fr/group/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/) of the Société Française de Statistiques.\
 I am now extending my Phd work in [Viking Conseil](http://vikingconseil.fr/).
 
 
