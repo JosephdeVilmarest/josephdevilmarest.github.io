@@ -1,18 +1,15 @@
 ## Short bio
 
-I founded [Viking Conseil](http://vikingconseil.fr/) to build adaptive forecasting models that are able to adapt to an increasingly unstable world.
+* **2022** I founded [Viking Conseil](https://vikingconseil.fr/) to extend my PhD work and build adaptive forecasting models that are able to adapt to an increasingly unstable world. The objective of Viking Conseil is to continue research in order to apply our solution in the industry.
 
-I graduated in **2019** from the [École Normale Supérieure](https://www.ens.fr) and got a Master Degree from the [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/) in mathematics and machine learning ([MVA](https://www.master-mva.com/)).
+* **2019 - 2022** I obtained my PhD in Statistics under an industrial contract ([CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/)). I worked jointly at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang. I defended on June 22, 2022, my PhD manuscript is available [here]({{ site.baseurl }}/docs/manuscript.pdf), and my defense slides [here]({{ site.baseurl }}/docs/2022_06_22_soutenance.pdf).\
+I received the [male thesis prize](https://www.thinksmartgrids.fr/actualites/prix-de-these-think-smartgrids) of Think Smartgrids, as well as the [Marie-Jeanne Laurent-Duhamel thesis prize](https://www.sfds.asso.fr/fr/group/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/) of the Société Française de Statistiques.
 
-From **2019** to **2022** I was a PhD Student in Statistics under a [CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/) contract. I am jointly working at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang. I defended on June 22, 2022.\
-My PhD manuscript is available [here]({{ site.baseurl }}/docs/manuscript.pdf), and my defense slides [here]({{ site.baseurl }}/docs/2022_06_22_soutenance.pdf).\
-I received the [male thesis prize](https://www.thinksmartgrids.fr/actualites/prix-de-these-think-smartgrids) of Think Smartgrids, as well as the [Marie-Jeanne Laurent-Duhamel thesis prize](https://www.sfds.asso.fr/fr/group/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/) of the Société Française de Statistiques.\
-I am now extending my Phd work in [Viking Conseil](http://vikingconseil.fr/).
-
+* **2015 - 2019** I graduated from the [École Normale Supérieure](https://www.ens.fr) and got a Master Degree from the [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/) in mathematics and machine learning ([MVA](https://www.master-mva.com/)).
 
 ## Research
 
-I am mainly interested in time series forecasting. I consider adaptive methods that are able to learn regime changes in the time series, focusing in particular on state-space representations. During my PhD the industrial application at EDF was electricity load forecasting.
+I am mostly interested in time series forecasting and the application I consider in particular is electricity load forecasting. I consider adaptive methods that are able to learn regime changes in the time series, focusing in particular on state-space representations. Indeed, state-space models capture very well the evolution of the electricity demand; in particular, they perform well in the context of abrupt regime changes.
 
 #### Publications
 
