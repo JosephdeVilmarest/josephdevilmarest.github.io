@@ -1,11 +1,11 @@
 ## Short bio
 
-* **2022** I founded [Viking Conseil](https://vikingconseil.fr/) to extend my PhD work and build adaptive forecasting models that are able to adapt to an increasingly unstable world. The objective of Viking Conseil is to continue research in order to apply our solution in the industry.
+* **2022.** I founded [Viking Conseil](https://vikingconseil.fr/) to extend my PhD work and build adaptive forecasting models that are able to adapt to an increasingly unstable world. The objective of Viking Conseil is to continue research in order to apply our solution in the industry.
 
-* **2019 - 2022** I obtained my PhD in Statistics under an industrial contract ([CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/)). I worked jointly at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang. I defended on June 22, 2022, my PhD manuscript is available [here]({{ site.baseurl }}/docs/manuscript.pdf), and my defense slides [here]({{ site.baseurl }}/docs/2022_06_22_soutenance.pdf).\
+* **2019 - 2022.** I obtained my PhD in Statistics under an industrial contract ([CIFRE](https://www.enseignementsup-recherche.gouv.fr/cid22130/les-cifre.html/)). I worked jointly at the [LPSM, Sorbonne Université](https://www.lpsm.paris/) under the supervision of [Olivier Wintenberger](http://wintenberger.fr/) and at [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial) under the supervision of [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Thi Thu Huong Hoang. I defended on June 22, 2022, my PhD manuscript is available [here]({{ site.baseurl }}/docs/manuscript.pdf), and my defense slides [here]({{ site.baseurl }}/docs/2022_06_22_soutenance.pdf).\
 I received the [male thesis prize](https://www.thinksmartgrids.fr/actualites/prix-de-these-think-smartgrids) of Think Smartgrids, as well as the [Marie-Jeanne Laurent-Duhamel thesis prize](https://www.sfds.asso.fr/fr/group/prix_et_bourses/544-le_prix_marie_jeanne_laurent_duhamel/) of the Société Française de Statistiques.
 
-* **2015 - 2019** I graduated from the [École Normale Supérieure](https://www.ens.fr) and got a Master Degree from the [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/) in mathematics and machine learning ([MVA](https://www.master-mva.com/)).
+* **2015 - 2019.** I graduated from the [École Normale Supérieure](https://www.ens.fr) and got a Master Degree from the [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en/) in mathematics and machine learning ([MVA](https://www.master-mva.com/)).
 
 ## Research
 
@@ -13,6 +13,7 @@ I am mostly interested in time series forecasting and the application I consider
 
 #### Publications
 
+* J. de Vilmarest and N. Werge (2024). [An adaptive volatility method for probabilistic forecasting and its application to the M6 financial forecasting competition](https://www.sciencedirect.com/science/article/pii/S0169207024000554). *International Journal of Forecasting*.
 * J. de Vilmarest and O. Wintenberger (2024). [Viking: Variational Bayesian Variational Tracking](https://link.springer.com/article/10.1007/s11203-024-09312-7). *Statistical Inference for Stochastic Processes*.
 * J. de Vilmarest, J. Browell, M. Fasiolo, Y. Goude and O. Wintenberger (2023). [Adaptive Probabilistic Forecasting of Electricity (Net-)Load](https://ieeexplore.ieee.org/document/10234679). *IEEE Transactions on Power Systems*.
 * G. Lambert, B. Hamrouche and J. de Vilmarest (2023). [Frugal day-ahead forecasting of multiple local electricity loads by aggregating adaptive models](https://www.nature.com/articles/s41598-023-42488-1). *Nature Scientific Reports*.
@@ -24,7 +25,6 @@ Implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post
 #### Preprints
 
 * B. Abélès, J. de Vilmarest and O. Wintenberger (2024). [Adaptive time series forecasting with markovian variance switching](https://arxiv.org/abs/2402.14684).
-* J. de Vilmarest and N. Werge (2023). [An adaptive volatility method for probabilistic forecasting and its application to the M6 financial forecasting competition](https://arxiv.org/abs/2303.01855).
 * J. de Vilmarest and O. Wintenberger (2019). [Logarithmic Regret for parameter-free Online Logistic Regression](https://arxiv.org/abs/1902.09803).
 
 
