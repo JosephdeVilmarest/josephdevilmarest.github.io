@@ -33,11 +33,11 @@ Implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post
 
 ## Competitions
 
-* **March – May 2025** : 1st place with Olivier Wintenberger at the [EVA2025 Data Challenge](https://eva2025.unc.edu/data-challenge/).
-* **February 2022 - February 2023** participation with [Nicklas Werge](https://nicklaswerge.github.io/) in the [M6 Financial Forecasting Competition](https://m6competition.com/) under the team name *AdaGaussMC*. We focus on the *Forecasts* leaderboard, ranking 3rd in the first quarter, and 5th globally.
-See our [preprint](https://arxiv.org/abs/2303.01855) and [implementation](https://gitlab.com/JdeVilmarest/m6-ijf) for details.
+* **March – May 2025.** 1st place with Olivier Wintenberger at the [EVA2025 Data Challenge](https://eva2025.unc.edu/data-challenge/). See our [preprint](https://arxiv.org/abs/2512.03116) for details.
+* **February 2022 - February 2023.** participation with [Nicklas Werge](https://nicklaswerge.github.io/) in the [M6 Financial Forecasting Competition](https://m6competition.com/) under the team name *AdaGaussMC*. We focus on the *Forecasts* leaderboard, ranking 3rd in the first quarter, and 5th globally.
+See our [publication](https://www.sciencedirect.com/science/article/pii/S0169207024000554) and [implementation](https://gitlab.com/JdeVilmarest/m6-ijf) for details.
 * **June 2021.** [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_building.pdf) in the [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
-* **March - April 2021.** [1st place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_ieeedataport.png) obtained with Yannig Goude in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm).\
+* **March - April 2021.** [1st place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_ieeedataport.png) obtained with Yannig Goude in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm).
 See our [publication](https://ieeexplore.ieee.org/document/9677626) and [implementation](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting) for details.
 
 
