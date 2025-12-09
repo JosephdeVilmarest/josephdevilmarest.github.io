@@ -24,16 +24,20 @@ Implementation on [gitlab](https://gitlab.com/JosephdeVilmarest/state-space-post
 
 #### Preprints
 
+* J. de Vilmarest and O. Wintenberger (2025). [Assessing Extrapolation of Peaks Over Thresholds with Martingale Testing](https://arxiv.org/abs/2512.03116).
+* N. Drobac, M. Brégère, J. de Vilmarest and O. Wintenberger (2025). [Sliding-Window Signatures for Time Series: Application to Electricity Demand Forecasting](https://arxiv.org/abs/2510.12337).
+* J.L. Mahoromeza, A. Fermanian, J. de Vilmarest and O. Wintenberger (2025). [Robust Estimation for Linear State-Space Models with Stochastic Covariates](https://hal.science/hal-05255645/).
 * B. Abélès, J. de Vilmarest and O. Wintenberger (2024). [Adaptive time series forecasting with markovian variance switching](https://arxiv.org/abs/2402.14684).
 * J. de Vilmarest and O. Wintenberger (2019). [Logarithmic Regret for parameter-free Online Logistic Regression](https://arxiv.org/abs/1902.09803).
 
 
 ## Competitions
 
-* **February 2022 - February 2023** We participated with [Nicklas Werge](https://nicklaswerge.github.io/) in the [M6 Financial Forecasting Competition](https://m6competition.com/) under the team name *AdaGaussMC*. We focus on the *Forecasts* leaderboard, ranking third in the first quarter, and second globally as of July 7.
+* **March – May 2025** : 1st place with Olivier Wintenberger at the [EVA2025 Data Challenge](https://eva2025.unc.edu/data-challenge/).
+* **February 2022 - February 2023** participation with [Nicklas Werge](https://nicklaswerge.github.io/) in the [M6 Financial Forecasting Competition](https://m6competition.com/) under the team name *AdaGaussMC*. We focus on the *Forecasts* leaderboard, ranking 3rd in the first quarter, and 5th globally.
 See our [preprint](https://arxiv.org/abs/2303.01855) and [implementation](https://gitlab.com/JdeVilmarest/m6-ijf) for details.
-* **June 2021.** I obtained the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_building.pdf) in [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
-* **March - April 2021.** We obtained with Y. Goude the [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_ieeedataport.png) in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm).\
+* **June 2021.** [first place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_building.pdf) in the [Competition on building energy consumption forecasting](http://www.gecad.isep.ipp.pt/smartgridcompetitions/).
+* **March - April 2021.** [1st place]({{ site.baseurl }}/docs/joseph_de_vilmarest_certificate_ieeedataport.png) obtained with Yannig Goude in the competition [Day-Ahead Electricity Demand Forecasting: Post-COVID Paradigm](https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm).\
 See our [publication](https://ieeexplore.ieee.org/document/9677626) and [implementation](https://gitlab.com/JosephdeVilmarest/state-space-post-covid-forecasting) for details.
 
 
